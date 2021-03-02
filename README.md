@@ -1,2 +1,2 @@
 # WebTech
-Main Web Page for all llabs
+Main Web Page for all labs
